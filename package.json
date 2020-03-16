@@ -1,0 +1,10 @@
+{
+  "name": "serverless-api",
+  "version": "1.0.0",
+  "description": "Serverless CRUD service exposing a book rest API",
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "uuid": "^2.0.3"
+  }
+}
